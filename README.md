@@ -9,6 +9,7 @@ Exit
 `https://island067.github.io/qingxi-record/`
 
 阅读手册(主要针对windows和安卓/鸿蒙手机用户，ios/mac用户参考即可）
+
 1.全流程大概9.9分钟，第一次阅读请不要关动效，以免影响阅读体验！
 
 
